@@ -3,7 +3,7 @@
 
 ### Executive Leadership, Innovation, and Strategy
 
-This repository serves as the capstone for my **[Certificate of Business Excellence](https://executive.berkeley.edu/certificate-business-excellence)** from **UC Berkeley Executive Education**. The COBE is a high-level credential awarded to leaders who complete 17+ days of curriculum across four academic pillars.
+This repository serves as the capstone for my **[Certificate of Business Excellence](https://executive.berkeley.edu/certificate-business-excellence)** from **UC Berkeley Executive Education**. The COBE is a high-level credential awarded to leaders who complete 17+ days of curriculum across four academic pillars highly regarded as a more focused executuce MBA or MBA alt.
 
 **Anticipated Completion:** May 2026
 
